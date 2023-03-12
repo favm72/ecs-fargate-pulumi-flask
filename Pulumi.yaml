@@ -1,0 +1,6 @@
+name: pulumi-app
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: ECS Fargate Service with ALB iac with Pulumi for deploy a Flask app
